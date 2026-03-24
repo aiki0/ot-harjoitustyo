@@ -10,7 +10,7 @@
 
 * Sovellus on suunniteltu yhdelle käyttäjätyypille: Yksityiskäyttäjä
 
-### Ydinominaisuudet
+## Ydinominaisuudet
 
 * Käyttäjä voi luoda itselleen uuden tilin
 * Pääsy sovellukseen omilla tunnuksilla
